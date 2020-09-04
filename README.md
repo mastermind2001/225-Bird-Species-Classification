@@ -19,4 +19,4 @@ All images are 224 X 224 X 3 color images in jpg format.
 <br><br>
 Datatset Source : <strong>Kaggle</strong>
 <br><br>
-<h5>Copyright &copy; 2020 Akshit Sharma</h5>
+<h5>Copyright &copy; 2020 Akshit Sharma and Prikshit Singla</h5>
